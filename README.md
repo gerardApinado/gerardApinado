@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gerardApinado
-- 👀 I’m interested in Web development, Mobile Application, and Data Analytics. Also, photography, videography, animation and creating illustrations.  
-- 🌱 I’m currently learning 
+- 👀 I’m interested in iOS App development, Software Development, Artificial Intellegence, and Machine Learning.  
+- 🌱 I’m currently learning more about iOS Development and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
